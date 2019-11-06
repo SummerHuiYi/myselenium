@@ -2,8 +2,8 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM ymxhtest/ds-base:3.9.1
-MAINTAINER ymxhtest <ymxhtest@163.com>
+FROM summerhuiyi/ds-base
+MAINTAINER lgr
 
 USER root
 

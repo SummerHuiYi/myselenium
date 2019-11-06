@@ -2,7 +2,7 @@
 # 基础镜像是ubuntu:16.04
 #========================
 FROM ubuntu:16.04
-MAINTAINER ymxhtest <ymxhtest@163.com>
+MAINTAINER lgr
 
 #========================
 # 使用Ubuntu标准的Apt-get源
